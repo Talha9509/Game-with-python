@@ -1,7 +1,6 @@
 '''
-We all have played snake, water gun game in our childhood. If you haven’t, google the
-rules of this game and write a python program capable of playing this game with the
-user.
+We all have played snake, water gun game in our childhood. Write a python program 
+capable of playing this game with the user.
 1 for Snake
 0 for Water
 -1 for Gun
